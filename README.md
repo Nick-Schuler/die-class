@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# The second git lab   
-## First team member: Nick-Schuler 
-## Second team member: nschooz
-This reposityory is an example of a C++ project.
+# Git Lab #2
+## First team member: Nick-Schuler
+
+Die class project. It simulates a die and includes a driver program.
