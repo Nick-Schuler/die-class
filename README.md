@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# The second git lab   
-## First team member: Nick-Schuler 
-## Second team member: nschooz
-This repository is an example of a C++ project.
+# The second Git lab
+## First team member: first name
+## Second team member: second name
+### Die Project: simulates the rolling of a die with a specified number of sides.
